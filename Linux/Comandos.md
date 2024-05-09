@@ -22,6 +22,8 @@ Abaixo, estão os comandos que tenho aprendido:
 
 **`rmdir`**: Remove um diretório vazio.
 
+**`clear`**: Limpa a tela.
+
 ### Arquivos e Texto
 
 **`cat`**: Exibe o conteúdo de um arquivo.
@@ -35,6 +37,8 @@ Abaixo, estão os comandos que tenho aprendido:
 **`touch`**: Cria um novo arquivo vazio.
 
 **`diff`**: Analisa as diferenças entre dois arquivos. 
+
+**`comp`**: Diz se dois arquivos são diferentes entre si e produz as diferenças que encontra.
 
 ### Processos
 
