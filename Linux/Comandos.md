@@ -1,8 +1,6 @@
-## Comandos Bash 
+## Comandos Linux
 
-O Bash é um tipo de "intérprete de comandos" que atua como um facilitador entre você e o computador. Ele não só permite que você dê ordens diretamente ao sistema operacional, mas também é uma espécie de "linguagem de programação" que pode realizar várias tarefas para economizar seu tempo e esforço. 
-
-Abaixo, estão os comandos que tenho aprendido:
+Abaixo, estão os comandos que já aprendi: 
 
 ### Sistema
 
