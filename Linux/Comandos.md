@@ -34,6 +34,8 @@ Abaixo, estão os comandos que tenho aprendido:
 
 **`touch`**: Cria um novo arquivo vazio.
 
+**`diff`**: Analisa as diferenças entre dois arquivos. 
+
 ### Processos
 
 **`ps`**: Exibe processos em execução.
